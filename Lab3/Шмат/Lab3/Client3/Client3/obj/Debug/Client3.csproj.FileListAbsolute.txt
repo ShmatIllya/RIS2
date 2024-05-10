@@ -1,0 +1,71 @@
+C:\Users\karol\source\repos\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\karol\source\repos\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\karol\source\repos\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\karol\source\repos\Client3\Client3\obj\Debug\Client3.csprojAssemblyReference.cache
+C:\Users\karol\source\repos\Client3\Client3\obj\Debug\Client3.Form1.resources
+C:\Users\karol\source\repos\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\karol\source\repos\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\karol\source\repos\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\karol\source\repos\Client3\Client3\obj\Debug\Client3.pdb
+D:\7sem\РИС\lab3\Client3\Client3\bin\Debug\Client3.exe.config
+D:\7sem\РИС\lab3\Client3\Client3\bin\Debug\Client3.exe
+D:\7sem\РИС\lab3\Client3\Client3\bin\Debug\Client3.pdb
+D:\7sem\РИС\lab3\Client3\Client3\obj\Debug\Client3.csprojAssemblyReference.cache
+D:\7sem\РИС\lab3\Client3\Client3\obj\Debug\Client3.Form1.resources
+D:\7sem\РИС\lab3\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+D:\7sem\РИС\lab3\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+D:\7sem\РИС\lab3\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+D:\7sem\РИС\lab3\Client3\Client3\obj\Debug\Client3.exe
+D:\7sem\РИС\lab3\Client3\Client3\obj\Debug\Client3.pdb
+D:\рис\Lab3_Petrik\Client3\Client3\bin\Debug\Client3.exe.config
+D:\рис\Lab3_Petrik\Client3\Client3\bin\Debug\Client3.exe
+D:\рис\Lab3_Petrik\Client3\Client3\bin\Debug\Client3.pdb
+D:\рис\Lab3_Petrik\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+D:\рис\Lab3_Petrik\Client3\Client3\obj\Debug\Client3.csproj.SuggestedBindingRedirects.cache
+D:\рис\Lab3_Petrik\Client3\Client3\obj\Debug\Client3.Form1.resources
+D:\рис\Lab3_Petrik\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+D:\рис\Lab3_Petrik\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+D:\рис\Lab3_Petrik\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+D:\рис\Lab3_Petrik\Client3\Client3\obj\Debug\Client3.exe
+D:\рис\Lab3_Petrik\Client3\Client3\obj\Debug\Client3.pdb
+D:\Универ\4 курс\7 семестр\РИС\Lab3\Client3\Client3\bin\Debug\Client3.exe.config
+D:\Универ\4 курс\7 семестр\РИС\Lab3\Client3\Client3\bin\Debug\Client3.exe
+D:\Универ\4 курс\7 семестр\РИС\Lab3\Client3\Client3\bin\Debug\Client3.pdb
+D:\Универ\4 курс\7 семестр\РИС\Lab3\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+D:\Универ\4 курс\7 семестр\РИС\Lab3\Client3\Client3\obj\Debug\Client3.Form1.resources
+D:\Универ\4 курс\7 семестр\РИС\Lab3\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+D:\Универ\4 курс\7 семестр\РИС\Lab3\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+D:\Универ\4 курс\7 семестр\РИС\Lab3\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+D:\Универ\4 курс\7 семестр\РИС\Lab3\Client3\Client3\obj\Debug\Client3.exe
+D:\Универ\4 курс\7 семестр\РИС\Lab3\Client3\Client3\obj\Debug\Client3.pdb
+D:\University\RIS\Laba3\Lab3\Client3\Client3\bin\Debug\Client3.exe.config
+D:\University\RIS\Laba3\Lab3\Client3\Client3\bin\Debug\Client3.exe
+D:\University\RIS\Laba3\Lab3\Client3\Client3\bin\Debug\Client3.pdb
+D:\University\RIS\Laba3\Lab3\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+D:\University\RIS\Laba3\Lab3\Client3\Client3\obj\Debug\Client3.Form1.resources
+D:\University\RIS\Laba3\Lab3\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+D:\University\RIS\Laba3\Lab3\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+D:\University\RIS\Laba3\Lab3\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+D:\University\RIS\Laba3\Lab3\Client3\Client3\obj\Debug\Client3.exe
+D:\University\RIS\Laba3\Lab3\Client3\Client3\obj\Debug\Client3.pdb
+D:\FCP\SEM7\RIS\Lab3\Ткачук\Lab3\Client3\Client3\bin\Debug\Client3.exe.config
+D:\FCP\SEM7\RIS\Lab3\Ткачук\Lab3\Client3\Client3\bin\Debug\Client3.exe
+D:\FCP\SEM7\RIS\Lab3\Ткачук\Lab3\Client3\Client3\bin\Debug\Client3.pdb
+D:\FCP\SEM7\RIS\Lab3\Ткачук\Lab3\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+D:\FCP\SEM7\RIS\Lab3\Ткачук\Lab3\Client3\Client3\obj\Debug\Client3.Form1.resources
+D:\FCP\SEM7\RIS\Lab3\Ткачук\Lab3\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+D:\FCP\SEM7\RIS\Lab3\Ткачук\Lab3\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+D:\FCP\SEM7\RIS\Lab3\Ткачук\Lab3\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+D:\FCP\SEM7\RIS\Lab3\Ткачук\Lab3\Client3\Client3\obj\Debug\Client3.exe
+D:\FCP\SEM7\RIS\Lab3\Ткачук\Lab3\Client3\Client3\obj\Debug\Client3.pdb
+D:\FCP\SEM7\RIS\Lab3\Шмат\Lab3\Client3\Client3\bin\Debug\Client3.exe.config
+D:\FCP\SEM7\RIS\Lab3\Шмат\Lab3\Client3\Client3\bin\Debug\Client3.exe
+D:\FCP\SEM7\RIS\Lab3\Шмат\Lab3\Client3\Client3\bin\Debug\Client3.pdb
+D:\FCP\SEM7\RIS\Lab3\Шмат\Lab3\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+D:\FCP\SEM7\RIS\Lab3\Шмат\Lab3\Client3\Client3\obj\Debug\Client3.Form1.resources
+D:\FCP\SEM7\RIS\Lab3\Шмат\Lab3\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+D:\FCP\SEM7\RIS\Lab3\Шмат\Lab3\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+D:\FCP\SEM7\RIS\Lab3\Шмат\Lab3\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+D:\FCP\SEM7\RIS\Lab3\Шмат\Lab3\Client3\Client3\obj\Debug\Client3.exe
+D:\FCP\SEM7\RIS\Lab3\Шмат\Lab3\Client3\Client3\obj\Debug\Client3.pdb

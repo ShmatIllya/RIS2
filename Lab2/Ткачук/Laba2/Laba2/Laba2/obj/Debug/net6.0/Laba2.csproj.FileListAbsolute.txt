@@ -1,0 +1,14 @@
+D:\University\RIS\Laba2\Laba2\Laba2\bin\Debug\net6.0\Laba2.exe
+D:\University\RIS\Laba2\Laba2\Laba2\bin\Debug\net6.0\Laba2.deps.json
+D:\University\RIS\Laba2\Laba2\Laba2\bin\Debug\net6.0\Laba2.runtimeconfig.json
+D:\University\RIS\Laba2\Laba2\Laba2\bin\Debug\net6.0\Laba2.dll
+D:\University\RIS\Laba2\Laba2\Laba2\bin\Debug\net6.0\Laba2.pdb
+D:\University\RIS\Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\RIS\Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.AssemblyInfoInputs.cache
+D:\University\RIS\Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.AssemblyInfo.cs
+D:\University\RIS\Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.csproj.CoreCompileInputs.cache
+D:\University\RIS\Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.dll
+D:\University\RIS\Laba2\Laba2\Laba2\obj\Debug\net6.0\refint\Laba2.dll
+D:\University\RIS\Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.pdb
+D:\University\RIS\Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.genruntimeconfig.cache
+D:\University\RIS\Laba2\Laba2\Laba2\obj\Debug\net6.0\ref\Laba2.dll

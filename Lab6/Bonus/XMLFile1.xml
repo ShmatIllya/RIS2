@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Appartements>
+  <Appartement>
+    <Number>12345</Number>
+    <Adress>TestAdress</Adress>
+    <Region>TestRegion</Region>
+    <Description>TestDesc</Description>
+    <Views>2</Views>
+  </Appartement>
+  <Appartement>
+    <Number>67890</Number>
+    <Adress>TestAdress</Adress>
+    <Region>TestRegion2</Region>
+    <Description>TestDesc2</Description>
+    <Views>1</Views>
+  </Appartement>
+  <Appartement>
+    <Number>1</Number>
+    <Adress>1</Adress>
+    <Region>1</Region>
+    <Description>1</Description>
+    <Views>0</Views>
+  </Appartement>
+  <Appartement>
+    <Number>1212</Number>
+    <Adress>123</Adress>
+    <Region>4124</Region>
+    <Description>4124</Description>
+    <Views>0</Views>
+  </Appartement>
+</Appartements>

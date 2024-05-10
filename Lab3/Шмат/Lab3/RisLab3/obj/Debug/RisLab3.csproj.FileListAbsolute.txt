@@ -1,0 +1,36 @@
+D:\Development\IdeaProjects\Ris2Part\RisLab3\RisLab3\bin\Debug\RisLab3.exe.config
+D:\Development\IdeaProjects\Ris2Part\RisLab3\RisLab3\bin\Debug\RisLab3.exe
+D:\Development\IdeaProjects\Ris2Part\RisLab3\RisLab3\bin\Debug\RisLab3.pdb
+D:\Development\IdeaProjects\Ris2Part\RisLab3\RisLab3\obj\Debug\RisLab3.csprojAssemblyReference.cache
+D:\Development\IdeaProjects\Ris2Part\RisLab3\RisLab3\obj\Debug\RisLab3.csproj.CoreCompileInputs.cache
+D:\Development\IdeaProjects\Ris2Part\RisLab3\RisLab3\obj\Debug\RisLab3.exe
+D:\Development\IdeaProjects\Ris2Part\RisLab3\RisLab3\obj\Debug\RisLab3.pdb
+E:\РИС\Ris2Part\RisLab3\RisLab3\bin\Debug\RisLab3.exe.config
+E:\РИС\Ris2Part\RisLab3\RisLab3\bin\Debug\RisLab3.exe
+E:\РИС\Ris2Part\RisLab3\RisLab3\bin\Debug\RisLab3.pdb
+E:\РИС\Ris2Part\RisLab3\RisLab3\obj\Debug\RisLab3.csprojAssemblyReference.cache
+E:\РИС\Ris2Part\RisLab3\RisLab3\obj\Debug\RisLab3.csproj.CoreCompileInputs.cache
+E:\РИС\Ris2Part\RisLab3\RisLab3\obj\Debug\RisLab3.exe
+E:\РИС\Ris2Part\RisLab3\RisLab3\obj\Debug\RisLab3.pdb
+D:\РИС(2 часть)\lab3\RisLab3\bin\Debug\RisLab3.exe.config
+D:\РИС(2 часть)\lab3\RisLab3\bin\Debug\RisLab3.exe
+D:\РИС(2 часть)\lab3\RisLab3\bin\Debug\RisLab3.pdb
+D:\РИС(2 часть)\lab3\RisLab3\obj\Debug\RisLab3.csproj.AssemblyReference.cache
+D:\РИС(2 часть)\lab3\RisLab3\obj\Debug\RisLab3.csproj.SuggestedBindingRedirects.cache
+D:\РИС(2 часть)\lab3\RisLab3\obj\Debug\RisLab3.csproj.CoreCompileInputs.cache
+D:\РИС(2 часть)\lab3\RisLab3\obj\Debug\RisLab3.exe
+D:\РИС(2 часть)\lab3\RisLab3\obj\Debug\RisLab3.pdb
+D:\Универ\4 курс\7 семестр\РИС\laba3_1\lab3\RisLab3\bin\Debug\RisLab3.exe.config
+D:\Универ\4 курс\7 семестр\РИС\laba3_1\lab3\RisLab3\bin\Debug\RisLab3.exe
+D:\Универ\4 курс\7 семестр\РИС\laba3_1\lab3\RisLab3\bin\Debug\RisLab3.pdb
+D:\Универ\4 курс\7 семестр\РИС\laba3_1\lab3\RisLab3\obj\Debug\RisLab3.csproj.AssemblyReference.cache
+D:\Универ\4 курс\7 семестр\РИС\laba3_1\lab3\RisLab3\obj\Debug\RisLab3.csproj.CoreCompileInputs.cache
+D:\Универ\4 курс\7 семестр\РИС\laba3_1\lab3\RisLab3\obj\Debug\RisLab3.exe
+D:\Универ\4 курс\7 семестр\РИС\laba3_1\lab3\RisLab3\obj\Debug\RisLab3.pdb
+D:\University\RIS\Laba3\Lab3\RisLab3\bin\Debug\RisLab3.exe.config
+D:\University\RIS\Laba3\Lab3\RisLab3\bin\Debug\RisLab3.exe
+D:\University\RIS\Laba3\Lab3\RisLab3\bin\Debug\RisLab3.pdb
+D:\University\RIS\Laba3\Lab3\RisLab3\obj\Debug\RisLab3.csproj.AssemblyReference.cache
+D:\University\RIS\Laba3\Lab3\RisLab3\obj\Debug\RisLab3.csproj.CoreCompileInputs.cache
+D:\University\RIS\Laba3\Lab3\RisLab3\obj\Debug\RisLab3.exe
+D:\University\RIS\Laba3\Lab3\RisLab3\obj\Debug\RisLab3.pdb

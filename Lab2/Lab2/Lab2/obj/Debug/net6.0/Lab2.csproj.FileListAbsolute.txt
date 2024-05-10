@@ -1,0 +1,14 @@
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.exe
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.deps.json
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.dll
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.pdb
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.dll
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\obj\Debug\net6.0\refint\Lab2.dll
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.pdb
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
+D:\FCP\SEM7\RIS\Lab2\Lab2\Lab2\obj\Debug\net6.0\ref\Lab2.dll

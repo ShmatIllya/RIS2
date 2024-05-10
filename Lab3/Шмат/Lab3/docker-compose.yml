@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  rislab3:
+    image: ${DOCKER_REGISTRY-}rislab3
+    build:
+      context: .\RisLab3
+      dockerfile: Dockerfile

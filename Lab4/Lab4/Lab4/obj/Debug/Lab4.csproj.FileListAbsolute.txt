@@ -1,0 +1,12 @@
+D:\FCP\SEM7\RIS\Lab4\Lab4\Lab4\bin\Debug\Database1.accdb
+D:\FCP\SEM7\RIS\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\FCP\SEM7\RIS\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\FCP\SEM7\RIS\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\FCP\SEM7\RIS\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\FCP\SEM7\RIS\Lab4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\FCP\SEM7\RIS\Lab4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\FCP\SEM7\RIS\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\FCP\SEM7\RIS\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\FCP\SEM7\RIS\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\FCP\SEM7\RIS\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\FCP\SEM7\RIS\Lab4\Lab4\Lab4\obj\Debug\Lab4.Form2.resources

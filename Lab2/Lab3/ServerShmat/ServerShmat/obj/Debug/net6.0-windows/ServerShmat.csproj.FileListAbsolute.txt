@@ -1,0 +1,16 @@
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\bin\Debug\net6.0-windows\ServerShmat.exe
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\bin\Debug\net6.0-windows\ServerShmat.deps.json
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\bin\Debug\net6.0-windows\ServerShmat.runtimeconfig.json
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\bin\Debug\net6.0-windows\ServerShmat.dll
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\bin\Debug\net6.0-windows\ServerShmat.pdb
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\obj\Debug\net6.0-windows\ServerShmat.Form1.resources
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\obj\Debug\net6.0-windows\ServerShmat.csproj.GenerateResource.cache
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\obj\Debug\net6.0-windows\ServerShmat.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\obj\Debug\net6.0-windows\ServerShmat.AssemblyInfoInputs.cache
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\obj\Debug\net6.0-windows\ServerShmat.AssemblyInfo.cs
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\obj\Debug\net6.0-windows\ServerShmat.csproj.CoreCompileInputs.cache
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\obj\Debug\net6.0-windows\ServerShmat.dll
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\obj\Debug\net6.0-windows\refint\ServerShmat.dll
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\obj\Debug\net6.0-windows\ServerShmat.pdb
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\obj\Debug\net6.0-windows\ServerShmat.genruntimeconfig.cache
+D:\FCP\SEM7\RIS\Lab2\Lab3\ServerShmat\ServerShmat\obj\Debug\net6.0-windows\ref\ServerShmat.dll
